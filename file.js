@@ -13,3 +13,4 @@ const value1 = 10;
 debugger; // для отладки остановится здесь
 console.log(value);
 console.log(typeof value); // узнать тип данных внутри переменной
+https://stepik.org/lesson/1407780/step/1?unit=1425243
